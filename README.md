@@ -7,26 +7,26 @@ software designs, testing and coding as well as debugging programs, seeking a po
 company where I can use my skills to the advantage of the company while having the scope to develop my own
 skills.
 
-## CONTACTS
+## Contacts
 
 * **Phone**: (+977)-9862653726
 * **Email**: prakashadhikary456@gmail.com
 * **LinkedIn**: [Prakash Adhikari](https://www.linkedin.com/in/prakashadhikary/)
 * **Github**: [Prakash Adhikari](https://github.com/prakashadhikary)
 
-## SKILLS
+## Skills
 
 * **Programming Languages**: JavaScript, ECMAScript, TypeScript, C, Java, Ruby, PHP
 * **Frameworks**: Angular, React, NestJS, Spring Boot, Spring MVC, Ruby on Rails
 * **Styling**: CSS, SCSS, Sass, Bootstrap
 * **Testing**: Protractor, Cypress
-* **Databases**: MySQL, PostgreSQL and Oracle
+* **Databases**: MySQL, PostgreSQL
 * **Version Control**: Git
 * **OS Platforms**: Linux, Windows
 
-## WORK EXPERIENCE
+## Work Experience
 
-### **Bajra Technologies, Software Engineer**, 01/2020 - Current | Tinkune, Kathmandu
+### **Bajra Technologies, Software Engineer**, Jan, 2020 - Current | Tinkune, Kathmandu
 * Working knowledge of front end optimization and performance techniques
 * Makes design recommendations towards the development of new code or reuse of existing code
 * Communication with clients about the project requirements
@@ -38,18 +38,18 @@ skills.
 * Participating in code review
 * Participated in Daily Scrum Meetings (Stand-up Meetings)
 
-## PERSONAL PROJECTS
+## Personal Projects
 * **Customer Tracker** <br />To keep the record of customers (Spring Boot and Thymeleaf)
 * **eCommerce** <br />
 Handled product category, product, add to cart and checkout with its design and implementation (Spring Boot and Angular)
 * **CRUD Project** <br />
 Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angular and Spring Boot Thymeleaf
 
-## EDUCATION
-#### Bachelor of Information Management(BIM) - 2016-2020
+## Education
+#### Bachelor of Information Management(BIM) - [2016-2020]
 * Orchid International College, Tribhuvan University
-#### +2 Management
+#### +2 Management - [2014-2016]
 * Chanakya College of Management, HSEB
 
-## ADDITIONAL INFORMATION
-* Full time football enthusiast
+## Additional Information
+* Full time football enthusiast :soccer: :sunglasses: 
