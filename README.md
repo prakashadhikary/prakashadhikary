@@ -16,9 +16,12 @@ skills.
 
 ## SKILLS
 
-* **Programming Languages & Frameworks**: HTML, CSS, SCSS, Sass, Bootstrap JavaScript, ECMAScript, TypeScript, Angular, RxJS, React, NestJs, Node.js, Java, Spring Boot, Spring MVC, Ruby, Ruby on Rails, RESTful API
+* **Programming Languages**: JavaScript, ECMAScript, TypeScript, C, Java, Ruby, PHP
+* **Frameworks**: Angular, React, NestJS, Spring Boot, Spring MVC, Ruby on Rails
+* **Styling**: CSS, SCSS, Sass, Bootstrap
 * **Testing**: Protractor, Cypress
 * **Databases**: MySQL, PostgreSQL and Oracle
+* **Version Control**: Git
 * **OS Platforms**: Linux, Windows
 
 ## WORK EXPERIENCE
