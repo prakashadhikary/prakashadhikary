@@ -7,8 +7,6 @@ software designs, testing and coding as well as debugging programs, seeking a po
 company where I can use my skills to the advantage of the company while having the scope to develop my own
 skills.
 
-<span style="color:blue">some *blue* text</span>.
-
 ## CONTACTS
 
 * **Phone**: (+977)-9862653726
