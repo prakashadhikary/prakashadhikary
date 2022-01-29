@@ -63,5 +63,5 @@ Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angu
 * Chanakya College of Management Bhaktapur - HSEB
 
 ## Additional Information
-* Full time football enthusiast :soccer: :sunglasses: 
-* I love to code :keyboard:
+* Full time football enthusiast :soccer: 
+* I love to code :keyboard: :sunglasses: 
