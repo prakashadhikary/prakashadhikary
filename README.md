@@ -1,4 +1,5 @@
 <h1 align="center">Software Engineer</h1>
+<h4 align="center">Phone: (+977)-9862653726 | Email: prakashadhikary456@gmail.com | LinkedIn: https://www.linkedin.com/in/prakashadhikary</h4>
 
 ## Prakash Adhikari
 
@@ -7,26 +8,36 @@ software designs, testing and coding as well as debugging programs, seeking a po
 company where I can use my skills to the advantage of the company while having the scope to develop my own
 skills.
 
-## Contacts
+## Summary
 
-* **Phone**: (+977)-9862653726
-* **Email**: prakashadhikary456@gmail.com
-* **LinkedIn**: [Prakash Adhikari](https://www.linkedin.com/in/prakashadhikary/)
-* **Github**: [Prakash Adhikari](https://github.com/prakashadhikary)
+* Around 2 years of experience in developing user interfaces using HTML, CSS, JavaScript and Bootstrap.
+* Good knowledge in developing Single Page Applications (SPAs) using JavaScript frameworks like Angular, React.
+* Experience in implementing RESTful API's.
+* Experience on Angular with the concept of component, service, directives, pipes, forms and lazy loading.
+* Good Understanding of Document Object Model (DOM) and DOM Methods.
+* Experience of working on CSS Preprocessors like SASS.
+* Good knowledge of database technologies like MySQL and PostgreSQL.
+* Experience working with testing tools like Protractor.
+* Experience in GitHub, GitLab for source code management and for version control.
+* Experience in agile development methodologies including Scrum
+* Involved in daily Scrum meetings to keep track of the ongoing project status and issues using JIRA.
+* Good communication skills, time management and team skills with an intention to work hard to meet project deadlines.
 
-## Skills
+## Technical Skills
 
+* **Web Technologies**: HTML, CSS, Bootstrap, SASS, JSON
 * **Programming Languages**: JavaScript, ECMAScript, TypeScript, C, Java, Ruby, PHP
 * **Frameworks**: Angular, React, NestJS, Spring Boot, Spring MVC, Ruby on Rails
-* **Styling**: CSS, SCSS, Sass, Bootstrap
 * **Testing**: Protractor, Cypress
 * **Databases**: MySQL, PostgreSQL
 * **Version Control**: Git
 * **OS Platforms**: Linux, Windows
+* **IDE**: Visual Studio Code, IntelliJ IDEA, Postman, DBeaver
+* **Others**: NG-ZORRO, Material UI, RxJS
 
 ## Work Experience
 
-### **Bajra Technologies, Software Engineer**, Jan, 2020 - Current | Tinkune, Kathmandu
+### *Bajra Technologies, Kathmandu - Software Engineer - Jan, 2020 - Current*
 * Working knowledge of front end optimization and performance techniques
 * Makes design recommendations towards the development of new code or reuse of existing code
 * Communication with clients about the project requirements
@@ -47,9 +58,10 @@ Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angu
 
 ## Education
 #### Bachelor of Information Management(BIM) - [2016-2020]
-* Orchid International College, Tribhuvan University
+* Orchid International College, Kathmandu - Tribhuvan University
 #### +2 Management - [2014-2016]
-* Chanakya College of Management, HSEB
+* Chanakya College of Management Bhaktapur - HSEB
 
 ## Additional Information
 * Full time football enthusiast :soccer: :sunglasses: 
+* I love to code :keyboard:
