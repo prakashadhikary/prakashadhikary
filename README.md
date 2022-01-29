@@ -54,7 +54,7 @@ skills.
 * **eCommerce** <br />
 Handled product category, product, add to cart and checkout with its design and implementation (Spring Boot and Angular)
 * **CRUD Project** <br />
-Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angular and Spring Boot Thymeleaf
+Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angular and Spring Boot + Thymeleaf
 
 ## Education
 #### Bachelor of Information Management(BIM) - [2016-2020]
