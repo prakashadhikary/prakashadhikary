@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Software Engineer | Angular</h1>
 <h4 align="center">Phone: (+977)-9862653726 | Email: prakashadhikary456@gmail.com | LinkedIn: https://www.linkedin.com/in/prakashadhikary</h4>
 
 ## Prakash Adhikari
