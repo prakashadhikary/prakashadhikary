@@ -10,17 +10,18 @@ skills.
 
 ## Summary
 
-* Around 2 years of experience in developing user interfaces using HTML, CSS, JavaScript and Bootstrap.
-* Good knowledge in developing Single Page Applications (SPAs) using JavaScript frameworks like Angular, React.
-* Experience in implementing RESTful API's.
-* Experience on Angular with the concept of component, service, directives, pipes, forms and lazy loading.
-* Good Understanding of Document Object Model (DOM) and DOM Methods.
-* Experience of working on CSS Preprocessors like SASS.
-* Good knowledge of database technologies like MySQL and PostgreSQL.
-* Experience working with testing tools like Protractor.
-* Experience in GitHub, GitLab for source code management and for version control.
-* Experience in agile development methodologies including Scrum
-* Involved in daily Scrum meetings to keep track of the ongoing project status and issues using JIRA.
+* Around 2 years of experience in developing user interfaces using **HTML, CSS, JavaScript and Bootstrap**.
+* Experience on Angular with the concept of services, directives, pipes, forms and lazy loading.
+* Good knowledge in developing Single Page Applications (SPAs) using JavaScript frameworks like **Angular, React**.
+* Good understanding of **Typescript and Javascript**.
+* Experience in implementing **RESTful API's**.
+* Good Understanding of **Document Object Model (DOM) and DOM Methods**.
+* Experience of working on **CSS Preprocessors like SASS**.
+* Good knowledge of database technologies like **MySQL** and **PostgreSQL**.
+* Experience working with testing tools like **Protractor Framework**.
+* Experience in **Git** for source code management and for version control.
+* Experience in agile development methodologies including **Scrum**.
+* Involved in daily Scrum meetings to keep track of the ongoing project status and issues using **JIRA**.
 * Good communication skills, time management and team skills with an intention to work hard to meet project deadlines.
 
 ## Technical Skills
@@ -32,7 +33,6 @@ skills.
 * **Databases**: MySQL, PostgreSQL
 * **Version Control**: Git
 * **OS Platforms**: Linux, Windows
-* **IDE**: Visual Studio Code, IntelliJ IDEA, Postman, DBeaver
 * **Others**: NG-ZORRO, Material UI, RxJS
 
 ## Work Experience
