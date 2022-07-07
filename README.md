@@ -37,7 +37,7 @@ skills.
 
 ## Work Experience
 
-### *Bajra Technologies, Kathmandu - Software Engineer - Jan, 2020 - Current*
+### *Bajra Technologies, Kathmandu - Software Engineer - Jan, 2021 - Current*
 * Working knowledge of front end optimization and performance techniques
 * Makes design recommendations towards the development of new code or reuse of existing code
 * Communication with clients about the project requirements
