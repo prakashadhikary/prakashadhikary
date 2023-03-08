@@ -72,7 +72,7 @@ Implemented different CRUD project using Laravel, Spring MVC, Spring Boot + Angu
 Created a simple beer shop app with Mock APIs using React
 
 ## Education
-#### Bachelor of Information Management(BIM) - [2016-2020]
+#### Bachelor of Information Management(BIM) - [2016-2021]
 * Orchid International College, Kathmandu - Tribhuvan University
 #### +2 Management - [2014-2016]
 * Chanakya College of Management Bhaktapur - HSEB
