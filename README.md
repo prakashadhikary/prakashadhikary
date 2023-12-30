@@ -10,7 +10,7 @@ skills.
 
 ## Summary
 
-* 3 years of experience in developing user interfaces using **HTML, CSS, JavaScript**.
+* 3+ years of experience in developing user interfaces using **HTML, CSS, JavaScript**.
 * Experience on Angular with the concept of **Services, Directives, Pipes, Forms and Lazy Loading**.
 * Good knowledge in developing Single Page Applications (SPAs) using JavaScript frameworks like **Angular, and React**.
 * Good understanding of **Typescript and Javascript**.
